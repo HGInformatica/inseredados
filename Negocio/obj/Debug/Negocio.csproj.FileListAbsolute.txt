@@ -1,0 +1,7 @@
+C:\Users\st188\Desktop\ABRIL\InsereDados\Negocio\bin\Debug\Negocio.dll
+C:\Users\st188\Desktop\ABRIL\InsereDados\Negocio\bin\Debug\Negocio.pdb
+C:\Users\st188\Desktop\ABRIL\InsereDados\Negocio\bin\Debug\Entidades.dll
+C:\Users\st188\Desktop\ABRIL\InsereDados\Negocio\bin\Debug\Entidades.pdb
+C:\Users\st188\Desktop\ABRIL\InsereDados\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\st188\Desktop\ABRIL\InsereDados\Negocio\obj\Debug\Negocio.dll
+C:\Users\st188\Desktop\ABRIL\InsereDados\Negocio\obj\Debug\Negocio.pdb
